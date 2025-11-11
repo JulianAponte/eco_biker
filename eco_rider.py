@@ -261,5 +261,5 @@ Seleccione una opción: """)
         break
 
     else:
-        print("Opción no válida, por favor seleccióne una opción.")
+        print("\nOpción no válida, por favor seleccióne una opción.\n")
         continue
