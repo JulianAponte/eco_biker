@@ -1,10 +1,3 @@
-Julián Aponte
-apontesito
-Invisible
-
-Julián Aponte — 11/10/2025 21:05
-Hola
-Team
 normal_bike=float(200)
 premium_bike=float(500)
 total=0
